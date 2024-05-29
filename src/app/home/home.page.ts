@@ -12,10 +12,5 @@ export class HomePage {
 
   constructor(private router:Router) {}
 
-  irparaocad() {
-    this.router.navigate(['/cadastro']);
-  }
-
-
 }
 
